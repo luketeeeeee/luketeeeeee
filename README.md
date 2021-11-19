@@ -1,6 +1,9 @@
 - 👋 Opa, me chamo Lucas e tenho 18 anos, atualmente sou estudante de Ciências da Computação na UEPB e também faço parte da Knex Jr.
 - 💻 Gosto muito de desenvolvimento web e já tenho certa prática HTML, CSS, JS e um pouco de React.JS e Node.
 - 🌱 No momento estou aprofundando meus conhecimentos em React, Node, Express e aprendendo sobre a utilização de pós-processadores CSS como o SASS e a linguagem TypeScript.
+- 📫 E-mail: henrique.lucas521@gmail.com
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=compact)
 
