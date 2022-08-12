@@ -5,7 +5,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=compact&theme=dracula)
+<a href="https://github.com/luketeeeeee"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luketeeeeee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
 <!---
