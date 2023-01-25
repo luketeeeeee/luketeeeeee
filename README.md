@@ -7,9 +7,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=compact&theme=dracula)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=compact&theme=dracula)
 <a href="https://github.com/luketeeeeee"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luketeeeeee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luketeeeeee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 
 <!---
 luketeeeeee/luketeeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
