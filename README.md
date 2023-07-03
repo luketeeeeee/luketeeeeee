@@ -1,13 +1,11 @@
 - 👋 Opa, me chamo Lucas e tenho 20 anos, atualmente sou estudante de Ciências da Computação na UEPB.
-- 💻 Gosto muito de desenvolvimento web e já tenho prática com HTML, CSS (também com pré-processadores como SASS), Tailwind, JavaScript, ReactJS, TypeScript.
-- 🌱 Nos últimos meses tenho me dedicado ao estudo das principais tecnologias utilizadas no desenvolvimento web, mais focado no front end, mas também conheço os conceitos e tecnologias que compõem o back end.
+- 💻 Gosto muito de desenvolvimento web, focando principalmente nas tecnologias que envolvem a linguagem JavaScript, como Node, Express, React e Next.
+- 🌱 Já tenho 1 ano de experiência na área e estou sempre buscando aprender mais, você pode ver aqui no meu perfil alguns dos meus projetos.
 - 📫 E-mail: henrique.lucas521@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=donut&theme=dark)](https://github.com/luketeeeeee/github-readme-stats)
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luketeeeeee&repo=pet-solidario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--->
 
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=compact&theme=dracula)
-<a href="https://github.com/luketeeeeee"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luketeeeeee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 
 <!---
 luketeeeeee/luketeeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
