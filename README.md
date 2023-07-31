@@ -3,7 +3,7 @@
 - 🌱 Já tenho 1 ano de experiência na área e estou sempre buscando aprender mais, você pode ver aqui no meu perfil alguns dos meus projetos.
 - 📫 E-mail: henrique.lucas521@gmail.com
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=donut&theme=dark)](https://github.com/luketeeeeee/github-readme-stats)
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luketeeeeee&repo=pet-solidario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--->
 
 
