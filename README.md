@@ -1,5 +1,5 @@
-- 👋 Opa, me chamo Lucas e tenho 20 anos, atualmente sou estudante de Ciências da Computação na UEPB.
-- 💻 Gosto muito de desenvolvimento web, focando principalmente nas tecnologias que envolvem a linguagem JavaScript, como Node, Express, React e Next.
+- 👋 Opa, me chamo Lucas e tenho 20 anos, sou desenvolvedor fullstack e estudante de Ciências da Computação.
+- 💻 Gosto muito de desenvolvimento web, focando principalmente nas tecnologias do ambiente Node, como React, Express e Next.
 - 🌱 Já tenho 1 ano de experiência na área e estou sempre buscando aprender mais, você pode ver aqui no meu perfil alguns dos meus projetos.
 - 📫 E-mail: henrique.lucas521@gmail.com
 
