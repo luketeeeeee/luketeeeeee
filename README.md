@@ -1,6 +1,4 @@
 - 👋 Opa, me chamo Lucas e tenho 20 anos, sou desenvolvedor fullstack e estudante de Ciências da Computação.
-- 💻 Gosto muito de desenvolvimento web, focando principalmente nas tecnologias do ambiente Node, como React, Express e Next.
-- 🌱 Já tenho 1 ano de experiência na área e estou sempre buscando aprender mais, você pode ver aqui no meu perfil alguns dos meus projetos.
 - 📫 E-mail: henrique.lucas521@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketeeeeee&layout=donut&theme=dark)](https://github.com/luketeeeeee/github-readme-stats)
