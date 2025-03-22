@@ -1,4 +1,4 @@
-- 👋 hi, my name is Lucas, and i'm a web developer and computer science student.
+- 👋 hi, my name is Lucas, and i'm a web developer and computer science professor (and student).
 
 <!---
 luketeeeeee/luketeeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
